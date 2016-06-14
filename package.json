@@ -1,0 +1,13 @@
+{
+  "name": "gb-league-models",
+  "version": "0.0.0",
+  "description": "Interfaces for guild ball league website",
+  "main": "index.js",
+  "author": {
+    "name": "dom",
+    "email": "mail@dominicbisset.co.uk"
+  },
+  "dependencies": {
+    "gb-game-models": "../GBGameModels"
+  }
+}
